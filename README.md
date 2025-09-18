@@ -34,7 +34,7 @@ While not every case of back pain is suitable, research suggests several conditi
 # 2. Herniated or Bulging Discs
 
 - When spinal discs push out of place, they can press on nerves, causing pain.
-- 
+  
 - Stem cell injections may reduce inflammation and aid in repairing disc damage.
   
 - Works best when combined with physical therapy.
@@ -78,9 +78,9 @@ This is why a proper medical evaluation, including MRI or X-rays, is essential b
 # Latest Insights and Research
 
 - Studies published in recent years show promising improvements in pain relief and function among patients with disc degeneration treated with stem cells.
-- 
+  
 - Clinical trials are ongoing to standardize dosages, cell types, and long-term outcomes.
-- 
+  
 - Combination therapies such as stem cells with platelet-rich plasma (PRP)—are gaining attention for enhanced results.
 
 While still evolving, the evidence suggests that regenerative medicine may reshape how we treat spine conditions in the future.
